@@ -3,7 +3,7 @@ title: ADGT 2026 Setup and Install Guide
 date: 2026-04-01
 categories: [Information]
 tags: [guides]
-author: <Bradley Turner>
+author: Bradley Turner
 description: How to setup your game to run in the 2026 ADGT Championship
 toc: true
 ---
