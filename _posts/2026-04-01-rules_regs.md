@@ -9,8 +9,6 @@ toc: true
 
 ---
 
-# ADGT 2026 Championship Rules, Regulations and Information
-
 ## Introduction
 
 This document will outline the rules and regulations for the 2026 season so rules won't feel ad-hock in their implementation, and it aims to make everything more transparent for racers.

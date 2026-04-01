@@ -8,8 +8,6 @@ description: How to setup your game to run in the 2026 ADGT Championship
 toc: true
 ---
 
-# ADGT 2026 Setup and Install Guide
-
 ## 1 - Content Manager & Steam
 
 I'll assume you've already purchased (preferably when it is on sale) and downloaded [Assetto Corsa Ultimate Edition](https://store.steampowered.com/bundle/6998/Assetto_Corsa_Ultimate_Edition/) and run the game at least once. After doing this, download the following:
