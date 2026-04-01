@@ -3,7 +3,7 @@ title: ADGT 2026 Championship Rules, Regulations and Information
 date: 2026-04-01
 categories: [Information]
 tags: [rules, regulations]
-author: Bradley Turner
+author: <bturner>
 description: A crash course on the 2026 ADGT Championship
 toc: true
 
