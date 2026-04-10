@@ -66,9 +66,11 @@ Go to weather and make sure the weather style is set to Sol
 
 ## 5 - Cars
 
-Cars are super simple to install, download the zip file below and drop and drag it into content manager. It will unzip it and add them to your car list. It should be 8.5GB in total. Make sure you overwrite all existing car data as there may be some differences between the 2025 and 2026 cars.
+Cars are super simple to install, download the zip file below and drop and drag it into content manager. It will unzip it and add them to your car list. It should be 5.5GB in total. Make sure you overwrite all existing car data as there may be some differences between the 2025 and 2026 cars.
 
-2026 ADGT Car pack v1.0
+[2026 ADGT Car pack v1.0](https://drive.google.com/file/d/1af24T-rOH1DfiFlCNFrk_E-1CrF0B8OX/view?usp=drive_link)
+
+After this is installed, have a play of the cars, and once you have chosen your car, contact Brad and then sign up at our [ADGT Championship Website](https://adgt.algebuckina-design.au/championship/084c6569-12fe-45da-8a37-d17220cd1469)
 
 ## 6 - Test Server
 
